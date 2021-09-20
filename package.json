@@ -4,6 +4,7 @@
   "description": "bytedance-youth-camp",
   "main": "./src/index.js",
   "scripts": {
+    "dev": "nodemon",
     "lint": "eslint --fix --max-warnings 0",
     "lint:lint-staged": "lint-staged -c ./lint-staged.config.js",
     "prettier": "prettier --write .",
@@ -23,6 +24,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "husky": "^7.0.0",
     "lint-staged": "^11.1.2",
+    "nodemon": "^2.0.12",
     "prettier": "^2.4.1"
   },
   "config": {
