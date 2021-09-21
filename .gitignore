@@ -1,2 +1,3 @@
 node_modules
 /src/day_01/vue-auto-router-cli/abcd
+dist
