@@ -1,0 +1,23 @@
+{
+  "name": "koa-setup",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "bin": {
+    "createKoaApp": "./bin/index.js"
+  },
+  "scripts": {
+    "dev": "node ./bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "execa": "^5.1.1",
+    "inquirer": "^8.1.5"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
