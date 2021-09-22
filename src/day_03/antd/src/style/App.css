@@ -1,0 +1,60 @@
+#logo img {
+  width: 32px;
+  margin-right: 12px;
+  vertical-align: middle;
+}
+
+#logo {
+  height: 64px;
+  line-height: 64px;
+  padding-left: 40px;
+  overflow: hidden;
+  color: #000000d9;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: -0.18px;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+#searchbox,
+#menu {
+  height: 64px;
+  line-height: 64px;
+  vertical-align: middle;
+}
+
+#menu .ant-menu-horizontal {
+  line-height: 64px;
+}
+
+#menu li {
+  line-height: 64px;
+}
+
+ul#menu {
+  border-bottom: none;
+}
+
+#biglogo {
+  margin-top: 191px;
+  position: relative;
+}
+
+#biglogo img {
+  width: 500px;
+}
+
+#dot {
+  position: absolute;
+  top: -5px;
+  left: 364px;
+}
+
+#btns {
+  margin-top: 50px;
+}
+
+#btns button {
+  margin-left: 8px;
+}
